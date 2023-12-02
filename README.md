@@ -1,7 +1,7 @@
 # test-repo1
 hello Git
 # ImprovedGit_Seminar03
-test repo 2
+line conflict
 
 
 1. Создаем удаленный репозиторий с файлом README.md
