@@ -4,3 +4,4 @@ line conflict 2
 
 
 Git conflict line
+conflict line
